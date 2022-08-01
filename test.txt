@@ -2,4 +2,4 @@ Hello git!
 I love !
 i love git
 i really love git
-i hate git
+i hate git!
